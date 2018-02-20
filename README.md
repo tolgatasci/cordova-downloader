@@ -1,3 +1,7 @@
+My Edit Project 
+Original project 
+https://github.com/vasani-arpit/cordova-plugin-downloadmanager
+
 # cordova-plugin-downloadmanager
 A Cordova plugin to download file in system's default download manager
 
@@ -8,7 +12,7 @@ A Cordova plugin to download file in system's default download manager
  ## Installation
 
  ```
- cordova plugin add https://github.com/vasani-arpit/cordova-plugin-downloadmanager
+ cordova plugin add https://github.com/tolgatasci/cordova-downloader
  ```
 
  ## How to Use 
