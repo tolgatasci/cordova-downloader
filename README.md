@@ -25,7 +25,7 @@ var fail = function (message) {
 var success = function (data) {
         console.log("succes");
 }
-cordova.plugins.DownloadManager.download("Your URL to download", success, fail);
+cordova.plugins.DownloadManager.download("Your URL to download","file_name.mp3", success, fail);
  ```
 
 ## Result
